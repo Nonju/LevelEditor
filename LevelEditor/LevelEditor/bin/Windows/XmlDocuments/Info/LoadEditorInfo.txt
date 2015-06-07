@@ -1,0 +1,8 @@
+LOAD EDITOR!
+
+In the "Load editor"-mode the user selects an already
+saved file from a list. After selection he can then start to edit
+the level as usual.
+
+If the levelName is changed when saving, a new file will be saved
+and the last one unaltered.

@@ -1,0 +1,97 @@
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\LevelEditor.exe
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\LevelEditor.pdb
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.dll
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.xml
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.csprojResolveAssemblyReference.cache
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.exe
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.pdb
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.exe
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.pdb
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.csprojResolveAssemblyReference.cache
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\LevelEditor.exe
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\LevelEditor.pdb
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.dll
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.xml
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BlockImages\DirtBlockTexture.png
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BlockImages\EmptyBlockTexture.png
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BlockImages\GrassBlockTexture.png
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BlockImages\StoneBlockTexture.png
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\SpriteFont1.xnb
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BlockImages\DirtBlockTexture.png
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BlockImages\EmptyBlockTexture.png
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BlockImages\GrassBlockTexture.png
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BlockImages\StoneBlockTexture.png
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\SpriteFont1.xnb
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\BtnAddFive.png
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\BtnAddOne.png
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\BtnReduceFive.png
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\BtnReduceOne.png
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\BtnAddFive.png
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\BtnAddOne.png
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\BtnReduceFive.png
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\BtnReduceOne.png
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\Temp\TempEditorBtn.bmp
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\Temp\TempLoadEditorBtn.bmp
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\Temp\TempMainMenuBtn.bmp
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\Temp\TempQuitBtn.bmp
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\Temp\TempSaveBtn.bmp
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\Temp\TempEditFileNameBtn.bmp
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\Temp\TempSelectFileBtn.bmp
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\Temp\TempEditFileNameBtn.bmp
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\Temp\TempEditorBtn.bmp
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\Temp\TempLoadEditorBtn.bmp
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\Temp\TempMainMenuBtn.bmp
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\Temp\TempQuitBtn.bmp
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\Temp\TempSaveBtn.bmp
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\Temp\TempSelectFileBtn.bmp
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\Temp\TempOptionsBtn.bmp
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\Temp\TempOptionsBtn.bmp
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\Temp\TempInfoBtn.bmp
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\Temp\TempInfoBtn.bmp
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\SpriteFont2.xnb
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\IgnoreMe.dll
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\Temp\TempBtnLeft.bmp
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\Temp\TempBtnRight.bmp
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\Temp\TempBtnLeft.bmp
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\Temp\TempBtnRight.bmp
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\SpriteFont2.xnb
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\IgnoreMe.dll
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\Temp\TempBackToMenuBtn.bmp
+C:\Users\hannesalbinsson\Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\Temp\TempBackToMenuBtn.bmp
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\Leveleditor_projektmap\LevelEditor\LevelEditor\bin\Windows\Debug\Content\Images\BtnImages\Temp\TempDeleteFileBtn.bmp

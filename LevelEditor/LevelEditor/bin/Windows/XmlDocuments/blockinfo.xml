@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<blocks>
+    <block>
+        <blockName>EmptyBlock</blockName>
+        <imgTextureName>EmptyBlockTexture</imgTextureName>
+    </block>
+    <block>
+        <blockName>GrassBlock</blockName>
+        <imgTextureName>GrassBlockTexture</imgTextureName>
+    </block>
+    <block>
+        <blockName>StoneBlock</blockName>
+        <imgTextureName>StoneBlockTexture</imgTextureName>
+    </block>
+    <block>
+        <blockName>DirtBlock</blockName>
+        <imgTextureName>DirtBlockTexture</imgTextureName>
+    </block>
+</blocks>
+
+<!-- plats för att ha info om blockPos kanske? -->
+

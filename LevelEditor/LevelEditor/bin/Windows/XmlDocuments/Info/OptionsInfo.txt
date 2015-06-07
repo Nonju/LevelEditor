@@ -1,0 +1,8 @@
+OPTIONS!
+
+In the options-menu you can change the resolution
+of the editor to better fit your screen.
+
+In the future you will even be able to change
+the editor workspace background to different
+themes.

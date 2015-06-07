@@ -1,0 +1,4 @@
+NEW EDITOR!
+
+In the New Editor mode the user selects a width and height
+of an empty editor to start edit in.

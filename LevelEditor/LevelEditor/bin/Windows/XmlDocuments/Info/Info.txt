@@ -1,0 +1,10 @@
+Hi!
+
+This program is a levelEditor made for creating simple
+minecraft-like 2D levels saved in xml for use in other
+projects ( or same if implemented ).
+
+As of now, you navigate the first menus using your keyboard-arrows.
+(RosyBrown-buttons)
+Other editor-menus and settings are navigated with you mouse.
+(LigthBlue-buttons)
